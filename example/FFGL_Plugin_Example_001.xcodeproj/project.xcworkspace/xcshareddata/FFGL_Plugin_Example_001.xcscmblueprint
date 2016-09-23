@@ -1,0 +1,30 @@
+{
+  "DVTSourceControlWorkspaceBlueprintPrimaryRemoteRepositoryKey" : "D401D5CE6D26FBC65CF006DF344F601E82D3D11C",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyRepositoryLocationsKey" : {
+
+  },
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyStatesKey" : {
+    "B98E3CFEC6501A75CC8123C65E3620511AA66D21" : 9223372036854775807,
+    "D401D5CE6D26FBC65CF006DF344F601E82D3D11C" : 9223372036854775807
+  },
+  "DVTSourceControlWorkspaceBlueprintIdentifierKey" : "C2E98F6A-3E15-4AF6-B1BD-7B1ECF4FD20C",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyPathsKey" : {
+    "B98E3CFEC6501A75CC8123C65E3620511AA66D21" : "..\/..\/addons\/ofxDelaunay",
+    "D401D5CE6D26FBC65CF006DF344F601E82D3D11C" : "FFGL_Plugin_Example_001\/"
+  },
+  "DVTSourceControlWorkspaceBlueprintNameKey" : "FFGL_Plugin_Example_001",
+  "DVTSourceControlWorkspaceBlueprintVersion" : 204,
+  "DVTSourceControlWorkspaceBlueprintRelativePathToProjectKey" : "FFGL_Plugin_Example_001.xcodeproj",
+  "DVTSourceControlWorkspaceBlueprintRemoteRepositoriesKey" : [
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/obviousjim\/ofxDelaunay.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "B98E3CFEC6501A75CC8123C65E3620511AA66D21"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/fishkingsin\/FFGL_Plugin_Example_001.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "D401D5CE6D26FBC65CF006DF344F601E82D3D11C"
+    }
+  ]
+}
